@@ -5,7 +5,8 @@ If a page with balance is found, script saves data to "positive_balances.txt".
 --------------------------------
 
 TO RUN
-- OPEN TERMINAL/CONSOLE IN SCRIPTS FOLDER
+- Open terminal/console in scripts folder.
+- RUN : pip install requirements.txt
 - Windows : python ./script.py
 - Linux : Chmod +x script.py | ./script.py
   
