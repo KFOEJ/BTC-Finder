@@ -8,7 +8,7 @@ TO RUN
 - OPEN TERMINAL/CONSOLE IN SCRIPTS FOLDER
 - Windows : python ./script.py
 - Linux : Chmod +x script.py | ./script.py
-- 
+  
 --------------------------------
 
 Not much more to say about this one, enjoy.
